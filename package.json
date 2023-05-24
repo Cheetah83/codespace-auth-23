@@ -1,0 +1,13 @@
+{
+  "name": "codespace-auth-23",
+  "version": "1.0.0",
+  "description": "Auth on github codespace",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
