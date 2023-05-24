@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const { MONGODB_URL } = process.env;
+const MONGODB_URL = "mongodb://localhost:27017/codespaceDB"
 
 exports.connect = () => {
     mongoose.connect(MONGODB_URL, {
